@@ -1,0 +1,6 @@
+@MegaMart.Server_HostAddress = http://localhost:5276
+
+GET {{MegaMart.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
